@@ -124,7 +124,7 @@ function Get-TabSelectionPattern {
 
 function Test-UTPOpen {
     $utpPatterns = @(
-        'UTP',
+        'Info',
         'info\.utp\.edu\.pe'
         #'Universidad Tecnológica del Perú',
         #'Intranet UTP',
